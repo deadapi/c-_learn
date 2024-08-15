@@ -4,6 +4,13 @@
 */
 #include <iostream>
 
+//i am single line comment really?
+
+/*
+i 
+am mutiple line comment 
+*/
+
 int main(){
     
     // Prints "hi!" to the terminal
