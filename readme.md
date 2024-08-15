@@ -1,3 +1,3 @@
 note this repo is only for learning c++ 
 <br>
-i will update until i learn
+note i will continue to update until i learn c++
