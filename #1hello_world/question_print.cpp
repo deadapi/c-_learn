@@ -6,7 +6,7 @@ Trying priting
    4 5 6
 7 8 9 10
 */
-
+//lol i forgot u cant print yet dont wry i covered u in next part
 
 //solution
 
