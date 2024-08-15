@@ -3,7 +3,7 @@
 int main(){
     std::cout<< "Hello world!\n";
 }
-//learn the basic structure as its important also ';' this thing is also imp
+//learn the basic structure as its important also ';' this thing is also imp after line end
 /*  
     std::cout is the “character output stream”. It is pronounced “see-out”.
     << is an operator that comes right after it.
