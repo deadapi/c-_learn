@@ -7,6 +7,7 @@ int main(){
 /*  
     std::cout is the “character output stream”. It is pronounced “see-out”.
     << is an operator that comes right after it.
+    << (Insertion Operator): The << operator is used to insert data into the output stream.
     "Hello World!\n" is what’s being outputted here. You need double quotes around text. The \n is a special character that indicates a new line.
     ; is a punctuation that tells the computer that you are at the end of a statement. It is similar to a period in a sentence.
 */
