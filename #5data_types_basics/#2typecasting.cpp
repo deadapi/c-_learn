@@ -10,6 +10,7 @@ int main(){
     // C-style type casting
     int a1 = (int)a; // Convert 'a' from double to int using C-style casting
     int a2 = int(a); // Convert 'a' from double to int using C-style casting
+    //In general type(variable) or (type)variable even valid while std::string so dont wry.
 
     std::cout << a1 << "\n" << a2;
 
