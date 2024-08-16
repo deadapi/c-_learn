@@ -30,7 +30,17 @@ int main(){
     unsigned long int: Larger range with positive values only.
     unsigned int: Only stores positive values.
     */
+    
+    
 
+     int a = -42;
+     unsigned int b = 42;
+     short int c = 32000;
+     long int d = 1234567890;
 
+    std::cout << "Signed int: " << a << "\n";
+    std::cout << "Unsigned int: " << b << "\n";
+    std::cout << "Short int: " << c << "\n";
+    std::cout << "Long int: " << d << "\n";
 }
 

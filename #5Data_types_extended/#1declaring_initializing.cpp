@@ -1,5 +1,5 @@
 //as we have previsly already saw int data type lets go a little deep
-
+//little deep means more into basics as we read further we will go more deeper
 #include <iostream>
 
 int main(){
